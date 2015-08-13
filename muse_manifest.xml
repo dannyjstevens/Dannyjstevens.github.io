@@ -1,0 +1,301 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://danieljamesstevens.com" resolutions="1x" timestamp="1439348565138">
+  <folder name="css">
+    <file name="site_global.css" crc="531312839"/>
+    <file name="index.css" crc="4003012066" ref="index"/>
+    <file name="iefonts_index.css" crc="4017020872" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="daniel-site.muse" crc="438730216" seo="true" mt="1439348417000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:tablet>post:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:tablet>post:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:phone>post:phone>about:phone>contact:tablet>post"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:tablet>post:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:tablet>post:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>post:phone>work:phone>contact:tablet>index:tablet>post:index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:tablet>post:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:tablet>post:index"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>post:phone>work:phone>about:phone>news:phone>contact:tablet>index:index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="phone>about:tablet>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>post:index"/>
+    <file name="form_check.php" crc="277267350" ref="tablet>index:index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="tablet>index:index"/>
+    <file name="form_process.php" crc="24249335" ref="tablet>index:index"/>
+    <file name="form-u6357.php" crc="3852064348" ref="tablet>index"/>
+    <file name="form-u3433.php" crc="4264954690" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="diagonallines.png" crc="445875833" ref="phone>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m05s185.jpg" crc="4083533864" seo="true" ref="phone>index:tablet>index"/>
+    <file name="diagonallines-u9402-fr.png" crc="296114469" ref="phone>index:tablet>index"/>
+    <file name="logo-hex-u9253-fr.png" crc="4059333477" ref="phone>index"/>
+    <file name="logo-hex.png" crc="505061400" ref="phone>post"/>
+    <file name="logo-hex2.png" crc="4258212089" ref="phone>post"/>
+    <file name="2950725441_bcffa1ab32190x190.jpg" crc="3984431835" seo="true" ref="phone>work"/>
+    <file name="2713042604_4b8bbc2715_o.gif" crc="4009633013" seo="true" ref="phone>work:tablet>index"/>
+    <file name="3117621085_837f89518f190x190.jpg" crc="3966592504" seo="true" ref="phone>work"/>
+    <file name="3332281174_f6e6b953ea221x190.jpg" crc="4023786966" seo="true" ref="phone>work"/>
+    <file name="3892942475_092e84b864-crop-u9800.jpg" crc="3803534742" ref="phone>work"/>
+    <file name="4264919748_529ccc56df-crop-u9812.jpg" crc="4105598154" ref="phone>work"/>
+    <file name="4534147454_06b1e0bb98-crop-u9824.jpg" crc="499273868" ref="phone>work"/>
+    <file name="5837712107_a43cd430bf190x203.jpg" crc="3904105554" seo="true" ref="phone>work"/>
+    <file name="2950725441_bcffa1ab32270x270.jpg" crc="127687237" seo="true" ref="phone>work"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>work:tablet>index:index"/>
+    <file name="3117621085_837f89518f270x270.jpg" crc="3882901971" seo="true" ref="phone>work"/>
+    <file name="3332281174_f6e6b953ea364x314.jpg" crc="425604444" seo="true" ref="phone>work"/>
+    <file name="3892942475_092e84b864-crop-u9797.jpg" crc="4124802208" ref="phone>work"/>
+    <file name="4264919748_529ccc56df-crop-u9809.jpg" crc="33977345" ref="phone>work"/>
+    <file name="4534147454_06b1e0bb98-crop-u9821.jpg" crc="80275828" ref="phone>work"/>
+    <file name="5837712107_a43cd430bf244x260.jpg" crc="492560551" seo="true" ref="phone>work"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>work:tablet>index:index"/>
+    <file name="5824776984_ef47e77755_o.jpg" crc="299760144" ref="phone>about:phone>contact:tablet>index"/>
+    <file name="profilepic.png" crc="3801799517" seo="true" ref="phone>about"/>
+    <file name="icon_facebook500.png" crc="3917133083" seo="true" ref="phone>contact:tablet>index"/>
+    <file name="icon_twitter.png" crc="4158872068" seo="true" ref="phone>contact:tablet>index"/>
+    <file name="icon_instagram.png" crc="3865211146" seo="true" ref="phone>contact:tablet>index"/>
+    <file name="icon_tumblr.png" crc="431699437" seo="true" ref="phone>contact:tablet>index"/>
+    <file name="icon_googleplus-revised.png" crc="411831727" seo="true" ref="phone>contact:tablet>index"/>
+    <file name="icon_rss.png" crc="3849996989" seo="true" ref="phone>contact:tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h44m34s21.jpg" crc="3855762615" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h45m54s255.jpg" crc="330503870" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m02s60.jpg" crc="483978845" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m21s253.jpg" crc="4085169781" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m25s31.jpg" crc="4149753009" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m26s48.jpg" crc="409153613" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m28s61.jpg" crc="275104608" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m46s243.jpg" crc="42576644" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m47s255.jpg" crc="492632738" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m48s11.jpg" crc="4008986028" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m49s23.jpg" crc="4268421586" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m50s35.jpg" crc="3872445017" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m52s46.jpg" crc="4221675896" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m53s60.jpg" crc="511962536" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m54s71.jpg" crc="3963139979" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m55s83.jpg" crc="3951097458" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m57s96.jpg" crc="366533901" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m58s109.jpg" crc="3991937109" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m59s124.jpg" crc="3809299877" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m01s137.jpg" crc="314825849" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m02s150.jpg" crc="4023437865" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m03s162.jpg" crc="188052008" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m04s174.jpg" crc="31345812" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m06s196.jpg" crc="328066973" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m08s208.jpg" crc="4055791580" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m09s220.jpg" crc="4120081849" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m10s231.jpg" crc="3975796727" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m11s242.jpg" crc="4236250479" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m12s253.jpg" crc="4136147654" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m13s9.jpg" crc="4119840704" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m15s21.jpg" crc="164556995" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m16s31.jpg" crc="4072818549" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m17s43.jpg" crc="176421627" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m18s53.jpg" crc="268863546" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m19s62.jpg" crc="4161082881" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m20s72.jpg" crc="3760274450" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m21s82.jpg" crc="300039473" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m22s92.jpg" crc="485905182" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m23s101.jpg" crc="493247949" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m23s137.jpg" crc="4047085012" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m26s176.jpg" crc="200010353" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m27s192.jpg" crc="490706125" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m28s201.jpg" crc="119440057" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m29s211.jpg" crc="4289714445" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m30s221.jpg" crc="4281930978" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m31s230.jpg" crc="431451924" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m32s239.jpg" crc="4227093143" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m32s249.jpg" crc="275068636" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m33s2.jpg" crc="3938093713" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m34s12.jpg" crc="4103244054" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m35s22.jpg" crc="3864204547" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m36s32.jpg" crc="3795634176" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m37s42.jpg" crc="4104933228" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m38s51.jpg" crc="4227580098" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m39s61.jpg" crc="445891201" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m40s71.jpg" crc="3808596541" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m42s86.jpg" crc="194817541" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m43s95.jpg" crc="3782762091" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m44s105.jpg" crc="4105322572" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m45s115.jpg" crc="3904438403" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m46s124.jpg" crc="4164178804" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m47s134.jpg" crc="146047126" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m47s144.jpg" crc="452511601" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m49s159.jpg" crc="396562609" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m50s168.jpg" crc="265289664" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m51s178.jpg" crc="480789193" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m52s188.jpg" crc="256570366" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m53s198.jpg" crc="3970042226" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m54s208.jpg" crc="410959661" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m55s218.jpg" crc="3834252412" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m56s229.jpg" crc="4130799189" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m57s239.jpg" crc="276085873" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m58s249.jpg" crc="3874424223" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m59s3.jpg" crc="307410281" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m00s13.jpg" crc="149486702" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m01s22.jpg" crc="3766404101" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m02s31.jpg" crc="418886371" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m03s41.jpg" crc="4074587820" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m04s51.jpg" crc="4123821124" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m05s60.jpg" crc="121201124" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m06s70.jpg" crc="231698079" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m07s79.jpg" crc="4237133096" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m08s89.jpg" crc="3847941013" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m09s99.jpg" crc="109780047" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m10s108.jpg" crc="345614685" seo="true" ref="tablet>index"/>
+    <file name="logo-hex2-u4026-fr.png" crc="4061605059" ref="tablet>index"/>
+    <file name="2950725441_bcffa1ab32234x234.jpg" crc="159628644" seo="true" ref="tablet>index"/>
+    <file name="3117621085_837f89518f234x234.jpg" crc="3966756830" seo="true" ref="tablet>index"/>
+    <file name="4264919748_529ccc56df-crop-u4412.jpg" crc="233635140" ref="tablet>index"/>
+    <file name="3892942475_092e84b864-crop-u4400.jpg" crc="101745557" ref="tablet>index"/>
+    <file name="3332281174_f6e6b953ea272x234.jpg" crc="3996214605" seo="true" ref="tablet>index"/>
+    <file name="4534147454_06b1e0bb98-crop-u4410.jpg" crc="55380992" ref="tablet>index"/>
+    <file name="5837712107_a43cd430bf230x246.jpg" crc="115951525" seo="true" ref="tablet>index"/>
+    <file name="4534147454_06b1e0bb98-crop-u4416.jpg" crc="55380992" ref="tablet>index"/>
+    <file name="3892942475_092e84b864-crop-u4394.jpg" crc="101745557" ref="tablet>index"/>
+    <file name="2950725441_bcffa1ab32.jpg" crc="299636553" seo="true" ref="tablet>index"/>
+    <file name="3117621085_837f89518f.jpg" crc="486315885" seo="true" ref="tablet>index"/>
+    <file name="4264919748_529ccc56df.jpg" crc="4235967142" seo="true" ref="tablet>index"/>
+    <file name="3892942475_092e84b864.jpg" crc="456848379" seo="true" ref="tablet>index"/>
+    <file name="3332281174_f6e6b953ea.jpg" crc="124822294" seo="true" ref="tablet>index"/>
+    <file name="4534147454_06b1e0bb98.jpg" crc="4095069278" seo="true" ref="tablet>index"/>
+    <file name="5837712107_a43cd430bf.jpg" crc="477948560" seo="true" ref="tablet>index"/>
+    <file name="4264919748_529ccc56df-crop-u6761.jpg" crc="233635140" ref="tablet>index"/>
+    <file name="3892942475_092e84b864-crop-u6747.jpg" crc="101745557" ref="tablet>index"/>
+    <file name="4534147454_06b1e0bb98-crop-u6745.jpg" crc="55380992" ref="tablet>index"/>
+    <file name="4534147454_06b1e0bb98-crop-u6743.jpg" crc="55380992" ref="tablet>index"/>
+    <file name="3892942475_092e84b864-crop-u6753.jpg" crc="101745557" ref="tablet>index"/>
+    <file name="3892942475_092e84b864-crop-u6542.jpg" crc="101745557" ref="tablet>index"/>
+    <file name="4264919748_529ccc56df-crop-u6534.jpg" crc="233635140" ref="tablet>index"/>
+    <file name="4534147454_06b1e0bb98-crop-u6552.jpg" crc="55380992" ref="tablet>index"/>
+    <file name="3892942475_092e84b864-crop-u6550.jpg" crc="101745557" ref="tablet>index"/>
+    <file name="4534147454_06b1e0bb98-crop-u6540.jpg" crc="55380992" ref="tablet>index"/>
+    <file name="dan_profilepic1-crop-u6133.png" crc="391472463" ref="tablet>index"/>
+    <file name="icon_tweets.png" crc="3780335117" seo="true" ref="tablet>index"/>
+    <file name="u6389-17.png" crc="4240802601" ref="tablet>index"/>
+    <file name="u6389-17-r.png" crc="293227623" ref="tablet>index"/>
+    <file name="u6389-17-m.png" crc="536235358" ref="tablet>index"/>
+    <file name="u6389-17-fs.png" crc="31721989" ref="tablet>index"/>
+    <file name="post-image.jpg" crc="18967924" ref="tablet>post"/>
+    <file name="logo-hex-u3207-fr.png" crc="3896907617" ref="index"/>
+    <file name="typebook_hardcover-crop-u1361.jpg" crc="424905697" ref="index"/>
+    <file name="book_spreads2-crop-u1353.jpg" crc="4011432182" ref="index"/>
+    <file name="type_book_spread 2-crop-u1357.jpg" crc="20918101" ref="index"/>
+    <file name="my_portfolio_images11217x281.jpg" crc="3791207904" seo="true" ref="index"/>
+    <file name="dstevens_multi_242f14_page_01-crop-u1365.jpg" crc="334857249" ref="index"/>
+    <file name="dstevens_multi_242f14_page_02-crop-u1355.jpg" crc="380631808" ref="index"/>
+    <file name="dstevens_multi_242f14_page_03230x184.jpg" crc="4288648542" seo="true" ref="index"/>
+    <file name="dstevens_final_poster_artboard 2-crop-u1363.jpg" crc="46577469" ref="index"/>
+    <file name="elfcover1_img_7191-crop-u3387.jpg" crc="362464650" ref="index"/>
+    <file name="elfpages1-crop-u3399.jpg" crc="30505334" ref="index"/>
+    <file name="elfpage7-crop-u3411.jpg" crc="506416838" ref="index"/>
+    <file name="screen shot 2015-05-06 at 32430 pm-crop-u3423.jpg" crc="124313438" ref="index"/>
+    <file name="typebook_hardcover.jpg" crc="3852702907" seo="true" ref="index"/>
+    <file name="book_spreads2.jpg" crc="401491397" seo="true" ref="index"/>
+    <file name="type_book_spread 2.jpg" crc="403296486" seo="true" ref="index"/>
+    <file name="my_portfolio_images11.jpg" crc="4108288779" seo="true" ref="index"/>
+    <file name="dstevens_multi_242f14_page_01.jpg" crc="4128060840" seo="true" ref="index"/>
+    <file name="dstevens_multi_242f14_page_02.jpg" crc="3812251638" seo="true" ref="index"/>
+    <file name="dstevens_multi_242f14_page_03.jpg" crc="505013608" seo="true" ref="index"/>
+    <file name="dstevens_final_poster_artboard 2.jpg" crc="4112815536" seo="true" ref="index"/>
+    <file name="elfcover1_img_7191.jpg" crc="311635338" seo="true" ref="index"/>
+    <file name="elfpages1.jpg" crc="40966708" seo="true" ref="index"/>
+    <file name="elfpage7.jpg" crc="3892099070" seo="true" ref="index"/>
+    <file name="screen shot 2015-05-06 at 32430 pm.jpg" crc="446813995" seo="true" ref="index"/>
+    <file name="oldman_drawing.jpg" crc="82644383" seo="true" ref="index"/>
+    <file name="old_man_tiles.jpg" crc="4177688547" seo="true" ref="index"/>
+    <file name="statue_drawing.jpg" crc="4006582074" seo="true" ref="index"/>
+    <file name="still_life_drawing.jpg" crc="232985676" seo="true" ref="index"/>
+    <file name="woman_drawing .jpg" crc="4078700934" seo="true" ref="index"/>
+    <file name="dan_doodle-u1414.png" crc="282965583" ref="index"/>
+    <file name="oldman_drawing-crop-u1426.jpg" crc="261087870" ref="index"/>
+    <file name="old_man_tiles-crop-u1436.jpg" crc="366851521" ref="index"/>
+    <file name="statue_drawing-crop-u1422.jpg" crc="484843679" ref="index"/>
+    <file name="still_life_drawing-crop-u1428.jpg" crc="297075489" ref="index"/>
+    <file name="woman_drawing -crop-u1432.jpg" crc="3988942089" ref="index"/>
+    <file name="u1424.png" crc="4267795965" ref="index"/>
+    <file name="u1424-r.png" crc="4267795965" ref="index"/>
+    <file name="ana_color_dsc0085-crop-u1533.jpg" crc="3984490320" ref="index"/>
+    <file name="dan_mask_dsc0085-crop-u1527.jpg" crc="76969382" ref="index"/>
+    <file name="dan_guy_mask_dsc0054_1-crop-u1531.jpg" crc="385345815" ref="index"/>
+    <file name="guy_mask_cont_dsc0054_1-crop-u1521.jpg" crc="3927758084" ref="index"/>
+    <file name="dan_gq_magazine_cover-crop-u1525.jpg" crc="4056192388" ref="index"/>
+    <file name="ana_color_dsc0085.jpg" crc="69080133" seo="true" ref="index"/>
+    <file name="dan_mask_dsc0085.jpg" crc="3793708259" seo="true" ref="index"/>
+    <file name="dan_guy_mask_dsc0054_1.jpg" crc="180107033" seo="true" ref="index"/>
+    <file name="guy_mask_cont_dsc0054_1.jpg" crc="23745902" seo="true" ref="index"/>
+    <file name="dan_gq_magazine_cover.jpg" crc="3966022954" seo="true" ref="index"/>
+    <file name="screen shot 2015-05-14 at 91135 am-crop-u13242.jpg" crc="3813749737" ref="index"/>
+    <file name="my_portfolio_images23-crop-u13285.jpg" crc="4195821628" ref="index"/>
+    <file name="my_portfolio_images25-crop-u13297.jpg" crc="3949462014" ref="index"/>
+    <file name="my_portfolio_images2-crop-u13238.jpg" crc="337946061" ref="index"/>
+    <file name="my_portfolio_images4-crop-u13236.jpg" crc="68229756" ref="index"/>
+    <file name="my_portfolio_images5212x274.jpg" crc="117766580" seo="true" ref="index"/>
+    <file name="my_portfolio_images6-crop-u13234.jpg" crc="3925668185" ref="index"/>
+    <file name="my_portfolio_images7-crop-u13344.jpg" crc="4119709630" ref="index"/>
+    <file name="my_portfolio_images16-crop-u13358.jpg" crc="478581604" ref="index"/>
+    <file name="my_portfolio_images18-crop-u13372.jpg" crc="3791422340" ref="index"/>
+    <file name="my_portfolio_images19-crop-u13386.jpg" crc="3760380775" ref="index"/>
+    <file name="screen shot 2015-05-14 at 91135 am.jpg" crc="506118558" seo="true" ref="index"/>
+    <file name="my_portfolio_images23.jpg" crc="425186163" seo="true" ref="index"/>
+    <file name="my_portfolio_images25-crop-u13300.jpg" crc="4028564517" ref="index"/>
+    <file name="my_portfolio_images2.jpg" crc="262617205" seo="true" ref="index"/>
+    <file name="my_portfolio_images4466x603.jpg" crc="4159428769" seo="true" ref="index"/>
+    <file name="my_portfolio_images5.jpg" crc="332072667" seo="true" ref="index"/>
+    <file name="my_portfolio_images6-crop-u13257.jpg" crc="3969143073" ref="index"/>
+    <file name="my_portfolio_images7-crop-u13347.jpg" crc="4255638873" ref="index"/>
+    <file name="my_portfolio_images16-crop-u13361.jpg" crc="315234688" ref="index"/>
+    <file name="my_portfolio_images18-crop-u13375.jpg" crc="185050554" ref="index"/>
+    <file name="my_portfolio_images19.jpg" crc="482067432" seo="true" ref="index"/>
+    <file name="5824776984_ef47e77755_o-u1638-fr.png" crc="64315763" ref="index"/>
+    <file name="dan_profilepic1-crop-u3117.png" crc="3976182498" ref="index"/>
+    <file name="social_tw_sprite-ieu12330-fr.png" crc="3922289204" ref="index"/>
+    <file name="social_tw_sprite.png" crc="3922289204" ref="index"/>
+    <file name="social_twitter_sprite-u12330-fr.png" crc="222344667" ref="index"/>
+    <file name="u3434-17.png" crc="162174614" ref="index"/>
+    <file name="u3434-17-r.png" crc="191186081" ref="index"/>
+    <file name="u3434-17-m.png" crc="3985437290" ref="index"/>
+    <file name="u3434-17-fs.png" crc="178723127" ref="index"/>
+    <file name="facebook.png" crc="3985453512" seo="true" ref="index"/>
+    <file name="linkedin.png" crc="218439546" seo="true" ref="index"/>
+    <file name="twitter.png" crc="3877840502" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_subpage.css" crc="407293899" ref="tablet>post"/>
+      <file name="post.css" crc="4137802433" ref="tablet>post"/>
+      <file name="iefonts_post.css" crc="233864677" ref="tablet>post"/>
+      <file name="index.css" crc="4077434222" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3799880687" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="199515240" seo="true" mt="1439348542735" redirect="true"/>
+    <file name="post.html" crc="4286188380" seo="true" mt="1438781286405" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_subpage.css" crc="3769252884" ref="phone>contact:phone>post:phone>news:phone>about:phone>work"/>
+      <file name="master_a-master.css" crc="4224850392" ref="phone>index"/>
+      <file name="contact.css" crc="98388806" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="4206042689" ref="phone>contact"/>
+      <file name="post.css" crc="755232" ref="phone>post"/>
+      <file name="iefonts_post.css" crc="528907379" ref="phone>post"/>
+      <file name="news.css" crc="4152988138" ref="phone>news"/>
+      <file name="iefonts_news.css" crc="327119163" ref="phone>news"/>
+      <file name="index.css" crc="14433982" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4271389688" ref="phone>index"/>
+      <file name="about.css" crc="287838754" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="483766101" ref="phone>about"/>
+      <file name="work.css" crc="75978341" ref="phone>work"/>
+      <file name="iefonts_work.css" crc="3796248997" ref="phone>work"/>
+    </folder>
+    <file name="index.html" crc="4030174277" seo="true" mt="1438457314643" redirect="true"/>
+    <file name="post.html" crc="3979244568" seo="true" mt="1438781286408" redirect="true"/>
+    <file name="work.html" crc="198681026" seo="true" mt="1438532907529" redirect="true"/>
+    <file name="about.html" crc="4098185314" seo="true" mt="1439348542733" redirect="true"/>
+    <file name="news.html" crc="172892061" seo="true" mt="1438457137629" redirect="true"/>
+    <file name="contact.html" crc="4116221026" seo="true" mt="1439348542727" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3869241020" seo="true" mt="1439348542730" redirect="true"/>
+</manifest>
