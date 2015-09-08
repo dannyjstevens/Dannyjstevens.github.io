@@ -118,12 +118,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-a,.footer-link a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .footer-link a:link
 {
 	color: #EBEBEB;
