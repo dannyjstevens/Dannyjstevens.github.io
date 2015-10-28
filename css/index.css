@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F0;
-	background-color: #7FEB4E;
+	color: #0000E6;
+	background-color: #F41F3F;
 }
 
 #page
@@ -1338,7 +1338,8 @@
 {
 	z-index: 250;
 	width: 0.01px;
-	height: 173px;
+	height: 174px;
+	padding-bottom: 64px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1654px;
@@ -1349,7 +1350,6 @@
 {
 	z-index: 251;
 	width: 11px;
-	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 163px;
@@ -1405,7 +1405,7 @@
 {
 	z-index: 254;
 	width: 842px;
-	height: 137px;
+	height: 238px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FDFDFD;
@@ -1418,14 +1418,14 @@
 #u6323-4
 {
 	z-index: 255;
-	width: 355px;
+	width: 641px;
 	min-height: 49px;
 	background-color: transparent;
 	font-size: 56px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 37px;
-	left: 243px;
+	margin-top: 59px;
+	left: 100px;
 }
 
 #pu1224
@@ -1433,7 +1433,7 @@
 	width: 0.01px;
 	padding-bottom: 983px;
 	margin-left: 15px;
-	margin-top: -1826px;
+	margin-top: -1892px;
 }
 
 #u1224
@@ -1530,7 +1530,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 1px;
+	margin-top: -65px;
 }
 
 #u2054
@@ -1551,6 +1551,15 @@
 	left: -100px;
 }
 
+#portfolio
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 49px;
+	left: 531px;
+}
+
 #u6249
 {
 	z-index: 142;
@@ -1566,15 +1575,6 @@
 {
 	z-index: 74;
 	min-height: 596px;
-}
-
-#portfolio
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	margin-top: 203px;
-	left: 531px;
 }
 
 #u2563-4

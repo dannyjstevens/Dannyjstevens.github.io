@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://www.dannyjstevens.com" resolutions="1x" timestamp="1445978192276">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://www.dannyjstevens.com" resolutions="1x" timestamp="1446054094085">
   <folder name="css">
     <file name="site_global.css" crc="394123724"/>
-    <file name="index.css" crc="4034915150" ref="index"/>
+    <file name="index.css" crc="3874758463" ref="index"/>
     <file name="iefonts_index.css" crc="4168773510" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -265,5 +265,5 @@
     <file name="work.html" crc="3978902995" seo="true" mt="1445974231558" redirect="true"/>
     <file name="contact.html" crc="4280428337" seo="true" mt="1445974131656" redirect="true"/>
   </folder>
-  <file name="index.html" crc="334963007" seo="true" mt="1445977385167" redirect="true"/>
+  <file name="index.html" crc="3875297249" seo="true" mt="1446054036910" redirect="true"/>
 </manifest>
