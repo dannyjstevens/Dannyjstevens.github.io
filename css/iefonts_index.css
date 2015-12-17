@@ -1,85 +1,40 @@
-.quote-author
+.h1
 {
-	font-family: open-sans-n6, sans-serif;
+	font-family: open-sans-n7, sans-serif;
 }
 
-.heading2,.heading1,.heading3
-{
-	font-family: advent-pro-n6, sans-serif;
-}
-
-.navigation-red,.navigation-white,.quote-text,.bodytext1,.bodytext2
+.bodytext---grey,.h2,.bodytext---white,.h2---grey
 {
 	font-family: open-sans-n3, sans-serif;
 }
 
-#u706-4
+#u5594-5
 {
 	font-family: advent-pro-n7, sans-serif;
 }
 
-#u491-2,#u631-4
+#u5582-5,#u5587-7,#u5597-7,#u5581-6,#u5590-5
 {
-	font-family: advent-pro-n7, sans-serif;
+	font-family: open-sans-n7, sans-serif;
 }
 
-#u491-5,#u652-2,#u652-6
+#u5669-6
 {
-	font-family: advent-pro-n3, sans-serif;
+	font-family: advent-pro-n2, sans-serif;
 }
 
-#u655-4
+#u5672-4
 {
-	font-family: open-sans-n6, sans-serif;
+	font-family: bebas-neue-n4, sans-serif;
 }
 
-#u1602-4
+#u5669,#u5669-2,#u5742-6
 {
-	font-family: open-sans-n6, sans-serif;
+	font-family: advent-pro-n5, sans-serif;
 }
 
-#u652-4,#u1947-4
-{
-	font-family: advent-pro-n7, sans-serif;
-}
-
-#u1449-4
-{
-	font-family: advent-pro-n7, sans-serif;
-}
-
-#u2563-4
-{
-	font-family: advent-pro-n7, sans-serif;
-}
-
-#u3734-4
+#u5736-5,#u5737-4,#u5715-4,#u6478-4,#u8208-5,#u8209-4,#u6581-3,#u6599-5,#u6600-4,#u6601-4,#u6620-4,#u6661-4
 {
 	font-family: open-sans-n3, sans-serif;
-}
-
-#u6076-4
-{
-	font-family: advent-pro-n7, sans-serif;
-}
-
-#u3678-4
-{
-	font-family: open-sans-n7, sans-serif;
-}
-
-#u3649-4
-{
-	font-family: open-sans-n7, sans-serif;
-}
-
-#u3672-4
-{
-	font-family: open-sans-n7, sans-serif;
-}
-
-#widgetu3674_input,#widgetu3674_prompt,#widgetu3648_input,#widgetu3648_prompt,#widgetu3669_input,#widgetu3669_prompt
-{
-	font-family: open-sans, sans-serif;
 }
 

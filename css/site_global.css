@@ -87,25 +87,25 @@ body
 
 a:link
 {
-	color: #0000FF;
+	color: #1685CC;
 	text-decoration: underline;
 }
 
 a:visited
 {
-	color: #800080;
+	color: #1685CC;
 	text-decoration: underline;
 }
 
 a:hover
 {
-	color: #0000FF;
+	color: #1685CC;
 	text-decoration: underline;
 }
 
 a:active
 {
-	color: #EE0000;
+	color: #1685CC;
 	text-decoration: underline;
 }
 
@@ -135,95 +135,58 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.navigation-red
+.bodytext---grey
 {
-	color: #D80B36;
+	color: #7F7F7F;
 	font-family: open-sans, sans-serif;
-	font-size: 12px;
+	font-size: 19px;
 	font-weight: 300;
-	line-height: 1.4;
-	text-align: center;
-	padding: 0px;
-}
-
-.navigation-white
-{
-	color: #FFFFFF;
-	font-family: open-sans, sans-serif;
-	font-size: 12px;
-	font-weight: 300;
-	line-height: 1.4;
-	text-align: center;
-	padding: 0px;
-}
-
-.quote-text
-{
-	color: #25C4AA;
-	font-family: open-sans, sans-serif;
-	font-size: 36px;
-	font-weight: 300;
-	text-align: center;
-	padding: 0px;
-}
-
-.quote-author
-{
-	color: #5F5F5F;
-	font-family: open-sans, sans-serif;
-	font-size: 14px;
-	font-weight: 600;
-	text-align: center;
-	padding: 0px;
-}
-
-.heading2
-{
-	color: #5F5F5F;
-	font-family: advent-pro, sans-serif;
-	font-size: 36px;
-	font-weight: 600;
-	padding: 0px;
-}
-
-.heading1
-{
-	color: #5F5F5F;
-	font-family: advent-pro, sans-serif;
-	font-size: 24px;
-	font-weight: 600;
-	text-align: center;
-	padding: 0px;
-}
-
-.bodytext1
-{
-	color: #5F5F5F;
-	font-family: open-sans, sans-serif;
-	font-size: 14px;
-	font-weight: 300;
-	line-height: 1.4;
-	text-align: center;
-	padding: 0px;
-}
-
-.heading3
-{
-	color: #FFFFFF;
-	font-family: advent-pro, sans-serif;
-	font-size: 36px;
-	font-weight: 600;
-	padding: 0px;
-}
-
-.bodytext2
-{
-	color: #FFFFFF;
-	font-family: open-sans, sans-serif;
-	font-size: 14px;
-	font-weight: 300;
-	line-height: 1.4;
+	letter-spacing: -1px;
 	text-align: left;
+	padding: 0px;
+}
+
+.h1
+{
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	letter-spacing: -3px;
+	text-align: center;
+	padding: 0px;
+}
+
+.h2
+{
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-size: 33px;
+	font-weight: 300;
+	letter-spacing: -3px;
+	text-align: left;
+	padding: 0px;
+}
+
+.bodytext---white
+{
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-size: 19px;
+	font-weight: 300;
+	letter-spacing: -1px;
+	text-align: left;
+	padding: 0px;
+}
+
+.h2---grey
+{
+	color: #232323;
+	font-family: open-sans, sans-serif;
+	font-size: 33px;
+	font-weight: 300;
+	letter-spacing: -3px;
+	text-align: center;
 	padding: 0px;
 }
 
