@@ -1,0 +1,451 @@
+.version.contact /* version checker */
+{
+	color: #0000FE;
+	background-color: #41FC5B;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #EBEBEB;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#pamphletu10396
+{
+	z-index: 28;
+	width: 0.01px;
+	height: 41px;
+	padding-bottom: 9px;
+	top: 0px;
+	left: -1px;
+}
+
+#u10397popup
+{
+	z-index: 29;
+}
+
+#u10397
+{
+	width: 381px;
+}
+
+#u10398
+{
+	z-index: 30;
+	width: 381px;
+	height: 189px;
+	margin-right: -10000px;
+}
+
+#pu10399
+{
+	z-index: 31;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u10399
+{
+	z-index: 0;
+	width: 380px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pmenuu10400
+{
+	width: 0.01px;
+	position: relative;
+	left: 254px;
+	padding-top: 44px;
+	z-index: 2;
+}
+
+#menuu10400
+{
+	z-index: 32;
+	width: 116px;
+	margin-right: -10000px;
+}
+
+#u10415
+{
+	width: 116px;
+}
+
+#u10416
+{
+	width: 116px;
+	min-height: 22px;
+	padding-bottom: 12px;
+	margin-right: -10000px;
+}
+
+#u10418-4
+{
+	width: 116px;
+	min-height: 22px;
+}
+
+#u10446
+{
+	width: 116px;
+	min-height: 22px;
+	padding-bottom: 13px;
+	margin-right: -10000px;
+}
+
+#u10447-4
+{
+	width: 116px;
+	min-height: 22px;
+}
+
+#u10402
+{
+	width: 116px;
+	min-height: 22px;
+	padding-bottom: 13px;
+	margin-right: -10000px;
+}
+
+#u10403-4
+{
+	width: 116px;
+	min-height: 22px;
+}
+
+#u10445,#u10401,#u10408
+{
+	width: 116px;
+	margin-top: 2px;
+}
+
+#u10409
+{
+	width: 116px;
+	min-height: 22px;
+	padding-bottom: 13px;
+	margin-right: -10000px;
+}
+
+#u10416.MuseMenuActive,#u10446.MuseMenuActive,#u10402.MuseMenuActive,#u10409.MuseMenuActive
+{
+	width: 116px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u10412-4
+{
+	width: 116px;
+	min-height: 22px;
+}
+
+#u10416.MuseMenuActive #u10418-4,#u10446.MuseMenuActive #u10447-4,#u10402.MuseMenuActive #u10403-4,#u10409.MuseMenuActive #u10412-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 116px;
+	margin: 0px;
+}
+
+#u10452
+{
+	z-index: 57;
+	width: 357px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 11px;
+}
+
+#u10453
+{
+	width: 390px;
+	padding-bottom: 9px;
+	top: -12px;
+	left: -11px;
+}
+
+#u10453.PamphletThumbSelected
+{
+	width: 390px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10454-6
+{
+	z-index: 63;
+	width: 177px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 11px;
+}
+
+#u10453.PamphletThumbSelected #u10454-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 28px;
+	width: 177px;
+	margin: 12px -10000px 0px 0px;
+}
+
+#u10455
+{
+	z-index: 59;
+	width: 16px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 352px;
+}
+
+#u10457
+{
+	z-index: 60;
+	width: 16px;
+	height: 4px;
+}
+
+#u10456
+{
+	z-index: 61;
+	width: 16px;
+	height: 4px;
+	margin-top: 2px;
+}
+
+#u10458
+{
+	z-index: 62;
+	width: 16px;
+	height: 4px;
+	margin-top: 2px;
+}
+
+#pu10393
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 47px;
+}
+
+#u10393
+{
+	z-index: 2;
+	height: 453px;
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	background: transparent url("../../images/5824776984_ef47e77755_o.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u10393-bw
+{
+	z-index: 2;
+	height: 453px;
+}
+
+#u10392
+{
+	z-index: 3;
+	width: 380px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 200px;
+}
+
+#u10389
+{
+	z-index: 5;
+	width: 380px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u10382-10
+{
+	z-index: 6;
+	width: 380px;
+	min-height: 169px;
+	background-color: #737374;
+	background-color: rgba(81,81,82,0.8);
+	color: #E0DCDC;
+	line-height: 34px;
+	text-align: left;
+	font-size: 24px;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	-pie-background: rgba(81,81,82,0.8);
+}
+
+#u10382,#u10382-3,#u10382-5,#u10382-8
+{
+	padding-left: 13px;
+}
+
+#u10382-7
+{
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 600;
+}
+
+#u10390
+{
+	z-index: 4;
+	width: 380px;
+	min-height: 202px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u14628
+{
+	z-index: 17;
+	height: 38px;
+	width: 38px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 220px;
+	left: 295px;
+	background: url("../../images/u14628.png") no-repeat 0px 0px;
+}
+
+#u14628:hover
+{
+	background: url("../../images/u14628-r.png") no-repeat 0px 0px;
+}
+
+#u14628:active
+{
+	background: url("../../images/u14628-m.png") no-repeat 0px 0px;
+}
+
+#u14630
+{
+	z-index: 21;
+	height: 38px;
+	width: 38px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 266px;
+	left: 295px;
+	background: url("../../images/u14630.png") no-repeat 0px 0px;
+}
+
+#u14630:hover
+{
+	background: url("../../images/u14630-r.png") no-repeat 0px 0px;
+}
+
+#u14630:active
+{
+	background: url("../../images/u14630-m.png") no-repeat 0px 0px;
+}
+
+#u14632
+{
+	z-index: 25;
+	height: 38px;
+	width: 38px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 313px;
+	left: 295px;
+	background: url("../../images/u14632.png") no-repeat 0px 0px;
+}
+
+#u14632:hover
+{
+	background: url("../../images/u14632-r.png") no-repeat 0px 0px;
+}
+
+#u14632:active
+{
+	background: url("../../images/u14632-m.png") no-repeat 0px 0px;
+}
+
+#u10470-4
+{
+	z-index: 69;
+	min-height: 29px;
+}
+
+#u10470-4-bw
+{
+	z-index: 69;
+	min-height: 29px;
+	margin-top: 617px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -617px;
+}
+

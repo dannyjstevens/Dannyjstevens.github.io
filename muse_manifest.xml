@@ -1,173 +1,374 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://dannyjstevens.com" resolutions="1x" timestamp="1450334102384">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://danieljamesstevens.com" resolutions="1x" timestamp="1441723506266">
   <folder name="css">
-    <file name="site_global.css" crc="4019373426"/>
-    <file name="index.css" crc="146788618" ref="index"/>
-    <file name="iefonts_index.css" crc="3872921424" ref="index"/>
-    <file name="horizontal.css" crc="488710958" ref="horizontal"/>
-    <file name="iefonts_horizontal.css" crc="124886340" ref="horizontal"/>
+    <file name="site_global.css" crc="91334804"/>
+    <file name="index.css" crc="3759341364" ref="index"/>
+    <file name="iefonts_index.css" crc="4114287665" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="daniel-site.muse" crc="3864806523" seo="true" mt="1440073704000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:index:horizontal"/>
-    <file name="museutils.js" crc="275725342" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:index:horizontal"/>
-    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:index:horizontal"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:horizontal"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:horizontal"/>
-    <file name="touchswipe.js" crc="4218319045" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:horizontal"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:index:horizontal"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:index:horizontal"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:index:horizontal"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>about:phone>services:phone>portfolio:phone>contact:index:horizontal"/>
-    <file name="form_check.php" crc="3932029206" ref="phone>contact:index:horizontal"/>
-    <file name="form_throttle.php" crc="314685628" ref="phone>contact:index:horizontal"/>
-    <file name="form_process.php" crc="401030677" ref="phone>contact:index:horizontal"/>
-    <file name="form-u7882.php" crc="437565105" ref="phone>contact"/>
-    <file name="museredirect.js" crc="3899419633" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
-    <file name="form-u8294.php" crc="3997101220" ref="index"/>
-    <file name="form-u9012.php" crc="4230744116" ref="horizontal"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>about:phone>contact:phone>work"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>work:phone>contact:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="phone>index:phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>work:phone>about:phone>contact:tablet>index:index"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="phone>about:tablet>index:index"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:index"/>
+    <file name="form_check.php" crc="3932029206" ref="tablet>index:index"/>
+    <file name="form_throttle.php" crc="314685628" ref="tablet>index:index"/>
+    <file name="form_process.php" crc="401030677" ref="tablet>index:index"/>
+    <file name="form-u6357.php" crc="3994370557" ref="tablet>index"/>
+    <file name="form-u3433.php" crc="4169480366" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="copenhagen-142711_1920-crop-u6825.jpg" crc="264163414" ref="phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>portfolio:horizontal"/>
-    <file name="london-140785_1920-crop-u6821.jpg" crc="359135730" ref="phone>index"/>
-    <file name="cobweb-166739_1920.jpg" crc="3761125904" seo="true" ref="phone>index"/>
-    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>portfolio:horizontal"/>
-    <file name="u6860-5.png" crc="406735153" ref="phone>index"/>
-    <file name="about-u6865.png" crc="102534156" ref="phone>index"/>
-    <file name="camera-u6868.png" crc="375749225" ref="phone>index"/>
-    <file name="settings-u6874.png" crc="4173813623" ref="phone>index"/>
-    <file name="smartphone-u6872.png" crc="534400859" ref="phone>index"/>
-    <file name="u6989-4.png" crc="3896607914" ref="phone>index"/>
-    <file name="shutterstock_13995577.jpg" crc="4236682328" ref="phone>about:phone>services:phone>portfolio:phone>contact"/>
-    <file name="smiling-103035_1280-u7042-fr.jpg" crc="3836179092" ref="phone>about"/>
-    <file name="summer-113617_1280-u7048-fr.jpg" crc="4134457761" ref="phone>about"/>
-    <file name="attractive-84486_1280-u7054-fr.jpg" crc="3866703696" ref="phone>about"/>
-    <file name="baby-17374_1280-u7060-fr.jpg" crc="429415400" ref="phone>about"/>
-    <file name="about-u7039.png" crc="7945084" ref="phone>about"/>
-    <file name="arrow_right_thin-u7068.png" crc="3922070426" ref="phone>about"/>
-    <file name="u7193-4.png" crc="3896607914" ref="phone>about"/>
-    <file name="settings-u7229.png" crc="40611161" ref="phone>services"/>
-    <file name="arrow_right_thin-u7227.png" crc="3922070426" ref="phone>services"/>
-    <file name="smartphone-u7236.png" crc="4242856082" ref="phone>services"/>
-    <file name="crosshair-u7248.png" crc="217187459" ref="phone>services"/>
-    <file name="pencil-u7250.png" crc="321613701" ref="phone>services"/>
-    <file name="u7370-4.png" crc="3896607914" ref="phone>services"/>
-    <file name="camera-u7414.png" crc="273716879" ref="phone>portfolio"/>
-    <file name="arrow_right_thin-u7412.png" crc="3922070426" ref="phone>portfolio"/>
-    <file name="bangkok-175758_1280.jpg" crc="379716282" seo="true" ref="phone>portfolio"/>
-    <file name="landscape-crop-u7431.jpg" crc="3863006458" ref="phone>portfolio"/>
-    <file name="oldtimer-166531_1280.jpg" crc="4097039929" seo="true" ref="phone>portfolio"/>
-    <file name="shoes-181744_1280-crop-u7433.jpg" crc="510289544" ref="phone>portfolio"/>
-    <file name="europe-182767_1280.jpg" crc="4120411034" seo="true" ref="phone>portfolio"/>
-    <file name="fireworks-180553_1280.jpg" crc="3953267908" seo="true" ref="phone>portfolio"/>
-    <file name="flower-181984_1280.jpg" crc="3775530390" seo="true" ref="phone>portfolio"/>
-    <file name="holiday-house-177401_1280207x156.jpg" crc="3902491411" seo="true" ref="phone>portfolio"/>
-    <file name="beauty-in-nature-178495_1280-crop-u7551.jpg" crc="406813587" ref="phone>portfolio"/>
-    <file name="karmann-ghia-178382_1280-crop-u7549.jpg" crc="3762055418" ref="phone>portfolio"/>
-    <file name="sunset-174276_1280-crop-u7553.jpg" crc="165751820" ref="phone>portfolio"/>
-    <file name="landscape-crop-u7590.jpg" crc="149123019" ref="phone>portfolio"/>
-    <file name="holiday-house-177401_1280.jpg" crc="27596909" seo="true" ref="phone>portfolio"/>
-    <file name="holiday-house-177401_1280205x154.jpg" crc="5126407" seo="true" ref="phone>portfolio"/>
-    <file name="karmann-ghia-178382_1280-crop-u7668.jpg" crc="307639850" ref="phone>portfolio"/>
-    <file name="sunset-174276_1280-crop-u7670.jpg" crc="526868553" ref="phone>portfolio"/>
-    <file name="u7692-4.png" crc="3896607914" ref="phone>portfolio"/>
-    <file name="smartphone-u7880.png" crc="3816262173" ref="phone>contact"/>
-    <file name="u7901-25.png" crc="138346565" ref="phone>contact"/>
-    <file name="u7901-25-r.png" crc="3918466442" ref="phone>contact"/>
-    <file name="u7901-25-m.png" crc="3952962772" ref="phone>contact"/>
-    <file name="u7901-25-fs.png" crc="3815365926" ref="phone>contact"/>
-    <file name="u7917.png" crc="3776208415" ref="phone>contact"/>
-    <file name="u7917-r.png" crc="344432865" ref="phone>contact"/>
-    <file name="u7919.png" crc="167748141" ref="phone>contact"/>
-    <file name="u7919-r.png" crc="415851758" ref="phone>contact"/>
-    <file name="u7921.png" crc="443597962" ref="phone>contact"/>
-    <file name="u7921-r.png" crc="3988278338" ref="phone>contact"/>
-    <file name="u7923.png" crc="296304998" ref="phone>contact"/>
-    <file name="u7923-r.png" crc="4208926907" ref="phone>contact"/>
-    <file name="u8032-4.png" crc="3896607914" ref="phone>contact"/>
-    <file name="u5588.png" crc="3776208415" ref="index"/>
-    <file name="u5588-r.png" crc="344432865" ref="index"/>
-    <file name="u5585.png" crc="167748141" ref="index"/>
-    <file name="u5585-r.png" crc="415851758" ref="index"/>
-    <file name="u5583.png" crc="443597962" ref="index"/>
-    <file name="u5583-r.png" crc="3988278338" ref="index"/>
-    <file name="designing.jpg" crc="433416691" ref="index"/>
-    <file name="bar1-crop-u5670.png" crc="502583202" ref="index"/>
-    <file name="u5704-grad.png" crc="299889912" ref="index"/>
-    <file name="googlefonts.jpg" crc="179543619" ref="index"/>
-    <file name="iconfinder.jpg" crc="8532987" ref="index"/>
-    <file name="flaticon.jpg" crc="105041625" ref="index"/>
-    <file name="colorgenerator.jpg" crc="3790348345" ref="index"/>
-    <file name="coolors.jpg" crc="3798436903" ref="index"/>
-    <file name="link-u5709.png" crc="32840843" ref="index"/>
-    <file name="arrow_right_thin-u5746.png" crc="3949665529" ref="index"/>
-    <file name="u6153-grad.png" crc="489051904" ref="index"/>
-    <file name="u6154-grad.png" crc="4041697691" ref="index"/>
-    <file name="templated.jpg" crc="130569714" ref="index"/>
-    <file name="designcrazed.jpg" crc="3780303877" ref="index"/>
-    <file name="link-u6481.png" crc="4054435728" ref="index"/>
-    <file name="codrops.jpg" crc="3864104385" ref="index"/>
-    <file name="u6578-grad.png" crc="4229771350" ref="index"/>
-    <file name="u6589-grad.png" crc="234659650" ref="index"/>
-    <file name="graphicburger.jpg" crc="3981428292" ref="index"/>
-    <file name="youthedesigner.jpg" crc="3780322876" ref="index"/>
-    <file name="snazzymaps.jpg" crc="4060855138" ref="index"/>
-    <file name="link-u6611.png" crc="406216304" ref="index"/>
-    <file name="u6617-grad.png" crc="3779514756" ref="index"/>
-    <file name="dan_computer_picture.png" crc="3773615837" seo="true" ref="index"/>
-    <file name="u8310-17.png" crc="200884290" ref="index"/>
-    <file name="u8310-17-r.png" crc="195222174" ref="index"/>
-    <file name="u8310-17-m.png" crc="473606238" ref="index"/>
-    <file name="u8310-17-fs.png" crc="59421444" ref="index"/>
-    <file name="u6766.png" crc="3776208415" ref="horizontal"/>
-    <file name="u6766-r.png" crc="344432865" ref="horizontal"/>
-    <file name="u6771.png" crc="167748141" ref="horizontal"/>
-    <file name="u6771-r.png" crc="415851758" ref="horizontal"/>
-    <file name="u6773.png" crc="443597962" ref="horizontal"/>
-    <file name="u6773-r.png" crc="3988278338" ref="horizontal"/>
-    <file name="sketches.jpg" crc="91546919" seo="true" ref="horizontal"/>
-    <file name="uxdesign_photo.jpg" crc="442395886" seo="true" ref="horizontal"/>
-    <file name="designing_horizontal.jpg" crc="3892968655" seo="true" ref="horizontal"/>
-    <file name="u2212-grad.png" crc="3969081818" ref="horizontal"/>
-    <file name="arrow_right_thin-u2111.png" crc="3949665529" ref="horizontal"/>
-    <file name="u2322-grad.png" crc="3851986522" ref="horizontal"/>
-    <file name="u2336-grad.png" crc="241615182" ref="horizontal"/>
-    <file name="bar1.png" crc="133409218" seo="true" ref="horizontal"/>
-    <file name="u2170-grad.png" crc="501654858" ref="horizontal"/>
-    <file name="about-u2461.png" crc="351748614" ref="horizontal"/>
-    <file name="sketch-u2332-fr.jpg" crc="3950048103" ref="horizontal"/>
-    <file name="axure-u2177-fr.jpg" crc="4035925183" ref="horizontal"/>
-    <file name="balsamiq-u2062-fr.jpg" crc="4087855278" ref="horizontal"/>
-    <file name="usabilityhub-u2211-fr.jpg" crc="4272061832" ref="horizontal"/>
-    <file name="u2047-grad.png" crc="157926811" ref="horizontal"/>
-    <file name="u2763-grad.png" crc="251079849" ref="horizontal"/>
-    <file name="sketch2.jpg" crc="84721537" ref="horizontal"/>
-    <file name="axure.jpg" crc="3801539194" ref="horizontal"/>
-    <file name="balsamiq.jpg" crc="479220566" ref="horizontal"/>
-    <file name="usabilityhub.jpg" crc="4094525603" ref="horizontal"/>
-    <file name="u9020-17.png" crc="4245036096" ref="horizontal"/>
-    <file name="u9020-17-r.png" crc="3781347591" ref="horizontal"/>
-    <file name="u9020-17-m.png" crc="3781347591" ref="horizontal"/>
-    <file name="u9020-17-fs.png" crc="3781347591" ref="horizontal"/>
+    <file name="diagonallines.png" crc="445875833" ref="phone>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m05s185.jpg" crc="4083533864" seo="true" ref="tablet>index"/>
+    <file name="diagonallines-u9402-fr.png" crc="296114469" ref="phone>index:tablet>index"/>
+    <file name="logo-hex-u9253-fr.png" crc="4059333477" ref="phone>index"/>
+    <file name="logo-hex.png" crc="505061400" ref="phone>work"/>
+    <file name="logo-hex2.png" crc="4258212089" ref="phone>work"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>work:tablet>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>work:tablet>index:index"/>
+    <file name="5824776984_ef47e77755_o.jpg" crc="14969835" ref="phone>about:phone>contact:tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h44m34s21.jpg" crc="3855762615" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h45m54s255.jpg" crc="330503870" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m02s60.jpg" crc="483978845" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m21s253.jpg" crc="4085169781" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m25s31.jpg" crc="4149753009" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m26s48.jpg" crc="409153613" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m28s61.jpg" crc="275104608" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m46s243.jpg" crc="42576644" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m47s255.jpg" crc="492632738" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m48s11.jpg" crc="4008986028" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m49s23.jpg" crc="4268421586" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m50s35.jpg" crc="3872445017" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m52s46.jpg" crc="4221675896" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m53s60.jpg" crc="511962536" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m54s71.jpg" crc="3963139979" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m55s83.jpg" crc="3951097458" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m57s96.jpg" crc="366533901" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m58s109.jpg" crc="3991937109" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h46m59s124.jpg" crc="3809299877" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m01s137.jpg" crc="314825849" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m02s150.jpg" crc="4023437865" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m03s162.jpg" crc="188052008" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m04s174.jpg" crc="31345812" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m06s196.jpg" crc="328066973" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m08s208.jpg" crc="4055791580" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m09s220.jpg" crc="4120081849" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m10s231.jpg" crc="3975796727" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m11s242.jpg" crc="4236250479" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m12s253.jpg" crc="4136147654" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m13s9.jpg" crc="4119840704" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m15s21.jpg" crc="164556995" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m16s31.jpg" crc="4072818549" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m17s43.jpg" crc="176421627" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m18s53.jpg" crc="268863546" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m19s62.jpg" crc="4161082881" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m20s72.jpg" crc="3760274450" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m21s82.jpg" crc="300039473" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m22s92.jpg" crc="485905182" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-10h47m23s101.jpg" crc="493247949" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m23s137.jpg" crc="4047085012" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m26s176.jpg" crc="200010353" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m27s192.jpg" crc="490706125" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m28s201.jpg" crc="119440057" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m29s211.jpg" crc="4289714445" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m30s221.jpg" crc="4281930978" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m31s230.jpg" crc="431451924" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m32s239.jpg" crc="4227093143" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m32s249.jpg" crc="275068636" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m33s2.jpg" crc="3938093713" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m34s12.jpg" crc="4103244054" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m35s22.jpg" crc="3864204547" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m36s32.jpg" crc="3795634176" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m37s42.jpg" crc="4104933228" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m38s51.jpg" crc="4227580098" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m39s61.jpg" crc="445891201" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m40s71.jpg" crc="3808596541" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m42s86.jpg" crc="194817541" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m43s95.jpg" crc="3782762091" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m44s105.jpg" crc="4105322572" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m45s115.jpg" crc="3904438403" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m46s124.jpg" crc="4164178804" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m47s134.jpg" crc="146047126" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m47s144.jpg" crc="452511601" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m49s159.jpg" crc="396562609" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m50s168.jpg" crc="265289664" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m51s178.jpg" crc="480789193" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m52s188.jpg" crc="256570366" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m53s198.jpg" crc="3970042226" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m54s208.jpg" crc="410959661" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m55s218.jpg" crc="3834252412" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m56s229.jpg" crc="4130799189" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m57s239.jpg" crc="276085873" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m58s249.jpg" crc="3874424223" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h05m59s3.jpg" crc="307410281" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m00s13.jpg" crc="149486702" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m01s22.jpg" crc="3766404101" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m02s31.jpg" crc="418886371" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m03s41.jpg" crc="4074587820" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m04s51.jpg" crc="4123821124" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m05s60.jpg" crc="121201124" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m06s70.jpg" crc="231698079" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m07s79.jpg" crc="4237133096" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m08s89.jpg" crc="3847941013" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m09s99.jpg" crc="109780047" seo="true" ref="tablet>index"/>
+    <file name="vlcsnap-2013-11-27-11h06m10s108.jpg" crc="345614685" seo="true" ref="tablet>index"/>
+    <file name="logo-hex2-u4026-fr.png" crc="4061605059" ref="tablet>index"/>
+    <file name="dan_profilepic1-crop-u6133.png" crc="391472463" ref="tablet>index:phone>about:index" seo="true"/>
+    <file name="icon_tweets.png" crc="3780335117" seo="true" ref="tablet>index"/>
+    <file name="u6389-17.png" crc="4240802601" ref="tablet>index"/>
+    <file name="u6389-17-r.png" crc="293227623" ref="tablet>index"/>
+    <file name="u6389-17-m.png" crc="536235358" ref="tablet>index"/>
+    <file name="u6389-17-fs.png" crc="31721989" ref="tablet>index"/>
+    <file name="logo-hex-u3207-fr.png" crc="3896907617" ref="index"/>
+    <file name="typebook_hardcover-crop-u1361.jpg" crc="424905697" ref="tablet>index" seo="true"/>
+    <file name="book_spreads2-crop-u1353.jpg" crc="4011432182" ref="tablet>index" seo="true"/>
+    <file name="type_book_spread 2-crop-u1357.jpg" crc="20918101" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images11217x281.jpg" crc="3791207904" seo="true" ref="index"/>
+    <file name="dstevens_multi_242f14_page_01-crop-u1365.jpg" crc="334857249" ref="tablet>index" seo="true"/>
+    <file name="dstevens_multi_242f14_page_02-crop-u1355.jpg" crc="380631808" ref="tablet>index" seo="true"/>
+    <file name="dstevens_multi_242f14_page_03230x184.jpg" crc="4288648542" seo="true" ref="index"/>
+    <file name="dstevens_final_poster_artboard 2-crop-u1363.jpg" crc="46577469" ref="tablet>index" seo="true"/>
+    <file name="elfcover1_img_7191-crop-u3387.jpg" crc="362464650" ref="tablet>index" seo="true"/>
+    <file name="elfpages1-crop-u3399.jpg" crc="30505334" ref="tablet>index" seo="true"/>
+    <file name="elfpage7-crop-u3411.jpg" crc="506416838" ref="tablet>index" seo="true"/>
+    <file name="screen shot 2015-05-06 at 32430 pm-crop-u3423.jpg" crc="124313438" ref="tablet>index" seo="true"/>
+    <file name="typebook_hardcover.jpg" crc="3852702907" seo="true" ref="index"/>
+    <file name="book_spreads2.jpg" crc="401491397" seo="true" ref="index:tablet>index"/>
+    <file name="type_book_spread 2.jpg" crc="403296486" seo="true" ref="index:tablet>index"/>
+    <file name="my_portfolio_images11.jpg" crc="4108288779" seo="true" ref="tablet>index"/>
+    <file name="dstevens_multi_242f14_page_01.jpg" crc="4128060840" seo="true" ref="tablet>index"/>
+    <file name="dstevens_multi_242f14_page_02.jpg" crc="3812251638" seo="true" ref="tablet>index"/>
+    <file name="dstevens_multi_242f14_page_03.jpg" crc="505013608" seo="true" ref="tablet>index"/>
+    <file name="dstevens_final_poster_artboard 2.jpg" crc="4112815536" seo="true" ref="tablet>index"/>
+    <file name="elfcover1_img_7191.jpg" crc="311635338" seo="true" ref="tablet>index"/>
+    <file name="elfpages1.jpg" crc="40966708" seo="true" ref="index:tablet>index"/>
+    <file name="elfpage7.jpg" crc="3892099070" seo="true" ref="index:tablet>index"/>
+    <file name="screen shot 2015-05-06 at 32430 pm.jpg" crc="446813995" seo="true" ref="index:tablet>index"/>
+    <file name="oldman_drawing.jpg" crc="82644383" seo="true" ref="tablet>index"/>
+    <file name="old_man_tiles.jpg" crc="4177688547" seo="true" ref="tablet>index"/>
+    <file name="statue_drawing.jpg" crc="4006582074" seo="true" ref="index:tablet>index"/>
+    <file name="still_life_drawing.jpg" crc="232985676" seo="true" ref="index:tablet>index"/>
+    <file name="woman_drawing .jpg" crc="4078700934" seo="true" ref="tablet>index"/>
+    <file name="dan_doodle-u1414.png" crc="245011395" ref="index"/>
+    <file name="oldman_drawing-crop-u1426.jpg" crc="261087870" ref="tablet>index" seo="true"/>
+    <file name="old_man_tiles-crop-u1436.jpg" crc="366851521" ref="tablet>index" seo="true"/>
+    <file name="statue_drawing-crop-u1422.jpg" crc="484843679" ref="tablet>index" seo="true"/>
+    <file name="still_life_drawing-crop-u1428.jpg" crc="297075489" ref="tablet>index" seo="true"/>
+    <file name="woman_drawing -crop-u1432.jpg" crc="3988942089" ref="tablet>index" seo="true"/>
+    <file name="u1424.png" crc="236372164" ref="index"/>
+    <file name="u1424-r.png" crc="236372164" ref="index"/>
+    <file name="ana_color_dsc0085-crop-u1533.jpg" crc="3984490320" ref="tablet>index" seo="true"/>
+    <file name="dan_mask_dsc0085-crop-u1527.jpg" crc="76969382" ref="tablet>index" seo="true"/>
+    <file name="dan_guy_mask_dsc0054_1-crop-u1531.jpg" crc="385345815" ref="tablet>index" seo="true"/>
+    <file name="guy_mask_cont_dsc0054_1-crop-u1521.jpg" crc="3927758084" ref="tablet>index" seo="true"/>
+    <file name="dan_gq_magazine_cover-crop-u1525.jpg" crc="4056192388" ref="tablet>index" seo="true"/>
+    <file name="ana_color_dsc0085.jpg" crc="69080133" seo="true" ref="tablet>index"/>
+    <file name="dan_mask_dsc0085.jpg" crc="3793708259" seo="true" ref="tablet>index"/>
+    <file name="dan_guy_mask_dsc0054_1.jpg" crc="180107033" seo="true" ref="tablet>index"/>
+    <file name="guy_mask_cont_dsc0054_1.jpg" crc="23745902" seo="true" ref="tablet>index"/>
+    <file name="dan_gq_magazine_cover.jpg" crc="3966022954" seo="true" ref="index:tablet>index"/>
+    <file name="screen shot 2015-05-14 at 91135 am-crop-u13242.jpg" crc="342718027" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images23-crop-u13285.jpg" crc="4195821628" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images25-crop-u13297.jpg" crc="423720293" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images2-crop-u13238.jpg" crc="337946061" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images4-crop-u13236.jpg" crc="3869108866" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images5212x274.jpg" crc="117766580" seo="true" ref="tablet>index"/>
+    <file name="my_portfolio_images6-crop-u13234.jpg" crc="3925668185" seo="true" ref="index:phone>work:tablet>index"/>
+    <file name="my_portfolio_images7-crop-u13344.jpg" crc="4208344146" ref="index"/>
+    <file name="my_portfolio_images16-crop-u13358.jpg" crc="4140297240" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images18-crop-u13372.jpg" crc="149105157" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images19-crop-u13386.jpg" crc="3760380775" ref="index"/>
+    <file name="screen shot 2015-05-14 at 91135 am.jpg" crc="506118558" seo="true" ref="index:tablet>index"/>
+    <file name="my_portfolio_images25-crop-u13300.jpg" crc="507075058" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images2.jpg" crc="262617205" seo="true" ref="tablet>index"/>
+    <file name="my_portfolio_images4466x603.jpg" crc="228443898" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images5.jpg" crc="77500703" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images7-crop-u13347.jpg" crc="361235047" ref="tablet>index" seo="true"/>
+    <file name="my_portfolio_images16-crop-u13361.jpg" crc="4272319901" ref="index" seo="true"/>
+    <file name="my_portfolio_images18-crop-u13375.jpg" crc="405541529" ref="phone>work" seo="true"/>
+    <file name="my_portfolio_images19.jpg" crc="3981145409" seo="true" ref="tablet>index"/>
+    <file name="5824776984_ef47e77755_o-u1638-fr.png" crc="308097532" ref="index"/>
+    <file name="social_tw_sprite-ieu12330-fr.png" crc="3922289204" ref="index"/>
+    <file name="social_tw_sprite.png" crc="3922289204" ref="index"/>
+    <file name="social_twitter_sprite-u12330-fr.png" crc="222344667" ref="index"/>
+    <file name="u3434-17.png" crc="162174614" ref="index"/>
+    <file name="u3434-17-r.png" crc="191186081" ref="index"/>
+    <file name="u3434-17-m.png" crc="3985437290" ref="index"/>
+    <file name="u3434-17-fs.png" crc="178723127" ref="index"/>
+    <file name="facebook.png" crc="3985453512" seo="true" ref="index"/>
+    <file name="linkedin.png" crc="218439546" seo="true" ref="index"/>
+    <file name="twitter.png" crc="3877840502" seo="true" ref="index"/>
+    <file name="book_spreads2-crop-u9750.jpg" crc="4281417650" ref="phone>work"/>
+    <file name="typebook_hardcover-crop-u9618.jpg" crc="322803220" ref="phone>work"/>
+    <file name="type_book_spread 2-crop-u9762.jpg" crc="4084427659" ref="phone>work"/>
+    <file name="my_portfolio_images11-crop-u9774.jpg" crc="4038610212" ref="phone>work"/>
+    <file name="dstevens_multi_242f14_page_01-crop-u9800.jpg" crc="134612135" ref="phone>work"/>
+    <file name="dstevens_multi_242f14_page_02-crop-u9812.jpg" crc="145213254" ref="phone>work"/>
+    <file name="dstevens_multi_242f14_page_03-crop-u9850.jpg" crc="4109413547" ref="phone>work"/>
+    <file name="dstevens_final_poster_artboard 2-crop-u9874.jpg" crc="4259695977" ref="phone>work"/>
+    <file name="elfcover1_img_7191-crop-u9886.jpg" crc="4074179701" ref="phone>work"/>
+    <file name="elfpages1-crop-u9862.jpg" crc="63788563" ref="phone>work"/>
+    <file name="elfpage7-crop-u9824.jpg" crc="29285947" ref="phone>work"/>
+    <file name="screen shot 2015-05-06 at 32430 pm-crop-u9836.jpg" crc="298039816" ref="phone>work"/>
+    <file name="old_man_tiles-crop-u14824.jpg" crc="188167321" ref="phone>work"/>
+    <file name="statue_drawing-crop-u14836.jpg" crc="92810173" ref="phone>work"/>
+    <file name="still_life_drawing-crop-u14848.jpg" crc="4166024986" ref="phone>work"/>
+    <file name="woman_drawing -crop-u14860.jpg" crc="4203105050" ref="phone>work"/>
+    <file name="dan_doodle-crop-u14874.jpg" crc="3896884627" ref="phone>work"/>
+    <file name="ana_color_dsc0085-crop-u14886.jpg" crc="84210129" ref="phone>work"/>
+    <file name="dan_mask_dsc0085-crop-u14910.jpg" crc="4055205428" ref="phone>work"/>
+    <file name="guy_mask_cont_dsc0054_1-crop-u14922.jpg" crc="288639323" ref="phone>work"/>
+    <file name="dan_gq_magazine_cover-crop-u14946.jpg" crc="3835669303" ref="phone>work"/>
+    <file name="screen shot 2015-05-14 at 91135 am-crop-u14958.jpg" crc="3843812946" ref="phone>work"/>
+    <file name="my_portfolio_images23-crop-u14970.jpg" crc="411149483" ref="phone>work"/>
+    <file name="my_portfolio_images25-crop-u13300198x190.jpg" crc="3812933626" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images2-crop-u14994.jpg" crc="3760451910" ref="phone>work"/>
+    <file name="my_portfolio_images4466x603-crop-u15008.jpg" crc="4047204904" ref="phone>work"/>
+    <file name="my_portfolio_images5-crop-u15022.jpg" crc="4110051849" ref="phone>work"/>
+    <file name="my_portfolio_images7-crop-u13347-crop-u15046.jpg" crc="529652265" ref="phone>work"/>
+    <file name="my_portfolio_images16-crop-u13361208x190.jpg" crc="3921454421" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images18-crop-u13375195x190.jpg" crc="3843273900" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images19-crop-u15086.jpg" crc="3862759178" ref="phone>work"/>
+    <file name="dan_guy_mask_dsc0054_1-crop-u14934.jpg" crc="4131358101" ref="phone>work"/>
+    <file name="book_spreads2-crop-u9747.jpg" crc="4011843088" ref="phone>work"/>
+    <file name="typebook_hardcover-crop-u9628.jpg" crc="71540563" ref="phone>work"/>
+    <file name="type_book_spread 2396x285.jpg" crc="3971049685" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images11339x438.jpg" crc="360140272" seo="true" ref="phone>work"/>
+    <file name="dstevens_multi_242f14_page_01331x264.jpg" crc="261290770" seo="true" ref="phone>work"/>
+    <file name="dstevens_multi_242f14_page_02363x290.jpg" crc="104322448" seo="true" ref="phone>work"/>
+    <file name="dstevens_multi_242f14_page_03380x304.jpg" crc="370962023" seo="true" ref="phone>work"/>
+    <file name="dstevens_final_poster_artboard 2249x360.jpg" crc="23402212" seo="true" ref="phone>work"/>
+    <file name="elfcover1_img_7191-crop-u9883.jpg" crc="310536188" ref="phone>work"/>
+    <file name="elfpages1-crop-u9859.jpg" crc="3976454858" ref="phone>work"/>
+    <file name="elfpage7336x224.jpg" crc="4086468523" seo="true" ref="phone>work"/>
+    <file name="screen shot 2015-05-06 at 32430 pm337x296.jpg" crc="4239321217" seo="true" ref="phone>work"/>
+    <file name="old_man_tiles255x360.jpg" crc="143665941" seo="true" ref="phone>work"/>
+    <file name="statue_drawing255x360.jpg" crc="3909473723" seo="true" ref="phone>work"/>
+    <file name="still_life_drawing255x360.jpg" crc="3829646527" seo="true" ref="phone>work"/>
+    <file name="woman_drawing 255x360.jpg" crc="4147225746" seo="true" ref="phone>work"/>
+    <file name="dan_doodle.jpg" crc="3830367506" seo="true" ref="phone>work"/>
+    <file name="ana_color_dsc0085336x224.jpg" crc="316902821" seo="true" ref="phone>work"/>
+    <file name="dan_mask_dsc0085336x224.jpg" crc="75990803" seo="true" ref="phone>work"/>
+    <file name="guy_mask_cont_dsc0054_1336x224.jpg" crc="414544408" seo="true" ref="phone>work"/>
+    <file name="dan_gq_magazine_cover264x360.jpg" crc="430972794" seo="true" ref="phone>work"/>
+    <file name="screen shot 2015-05-14 at 91135 am278x360.jpg" crc="4134677182" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images23279x360.jpg" crc="3995826673" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images25-crop-u13300336x323.jpg" crc="315227500" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images2279x360.jpg" crc="3945780156" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images7-crop-u13347336x261.jpg" crc="4016817611" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images16-crop-u13361336x308.jpg" crc="161245117" seo="true" ref="phone>work"/>
+    <file name="my_portfolio_images19278x360.jpg" crc="4102973089" seo="true" ref="phone>work"/>
+    <file name="dan_guy_mask_dsc0054_1336x224.jpg" crc="287782011" seo="true" ref="phone>work"/>
+    <file name="u14628.png" crc="3814930464" ref="phone>contact"/>
+    <file name="u14628-r.png" crc="285593982" ref="phone>contact"/>
+    <file name="u14628-m.png" crc="4101800601" ref="phone>contact"/>
+    <file name="u14630.png" crc="409175249" ref="phone>contact"/>
+    <file name="u14630-r.png" crc="217672254" ref="phone>contact"/>
+    <file name="u14630-m.png" crc="154606574" ref="phone>contact"/>
+    <file name="u14632.png" crc="4084786458" ref="phone>contact"/>
+    <file name="u14632-r.png" crc="46267323" ref="phone>contact"/>
+    <file name="u14632-m.png" crc="235289641" ref="phone>contact"/>
+    <file name="my_portfolio_images11-crop-u4412.jpg" crc="514809536" ref="tablet>index"/>
+    <file name="dstevens_multi_242f14_page_03-crop-u4410.jpg" crc="465281219" ref="tablet>index"/>
+    <file name="typebook_hardcover-crop-u4361.jpg" crc="4091247024" ref="tablet>index"/>
+    <file name="u1424.jpg" crc="399055174" seo="true" ref="tablet>index"/>
+    <file name="my_portfolio_images7-crop-u13347-crop-u14376.jpg" crc="247250953" ref="tablet>index"/>
+    <file name="my_portfolio_images19-crop-u14418.jpg" crc="480472153" ref="tablet>index"/>
+    <file name="my_portfolio_images23-crop-u14288.jpg" crc="4021870861" ref="tablet>index"/>
+    <file name="u14455.png" crc="3977463445" ref="tablet>index"/>
+    <file name="u14455-r.png" crc="123406766" ref="tablet>index"/>
+    <file name="u14455-m.png" crc="244328459" ref="tablet>index"/>
+    <file name="u14459.png" crc="4130449035" ref="tablet>index"/>
+    <file name="u14459-r.png" crc="3908309618" ref="tablet>index"/>
+    <file name="u14459-m.png" crc="4004054126" ref="tablet>index"/>
+    <file name="u14463.png" crc="4112138262" ref="tablet>index"/>
+    <file name="u14463-r.png" crc="275997548" ref="tablet>index"/>
+    <file name="u14463-m.png" crc="113977325" ref="tablet>index"/>
+    <file name="typebook_hardcover-crop-u13612.jpg" crc="481717120" ref="index"/>
+    <file name="book_spreads2-crop-u13532.jpg" crc="4059565004" ref="index"/>
+    <file name="type_book_spread 2-crop-u13572.jpg" crc="20918101" ref="index"/>
+    <file name="dstevens_multi_242f14_page_01-crop-u13652.jpg" crc="334857249" ref="index"/>
+    <file name="dstevens_multi_242f14_page_02-crop-u13552.jpg" crc="3860431735" ref="index"/>
+    <file name="dstevens_final_poster_artboard 2-crop-u13632.jpg" crc="46577469" ref="index"/>
+    <file name="elfcover1_img_7191-crop-u33872.jpg" crc="362464650" ref="index"/>
+    <file name="elfpages1-crop-u33992.jpg" crc="30505334" ref="index"/>
+    <file name="elfpage7-crop-u34112.jpg" crc="506416838" ref="index"/>
+    <file name="screen shot 2015-05-06 at 32430 pm-crop-u34232.jpg" crc="124313438" ref="index"/>
+    <file name="my_portfolio_images112.jpg" crc="4108288779" seo="true" ref="index"/>
+    <file name="dstevens_multi_242f14_page_012.jpg" crc="4128060840" seo="true" ref="index"/>
+    <file name="dstevens_multi_242f14_page_022.jpg" crc="3812251638" seo="true" ref="index"/>
+    <file name="dstevens_multi_242f14_page_032.jpg" crc="505013608" seo="true" ref="index"/>
+    <file name="dstevens_final_poster_artboard 22.jpg" crc="4112815536" seo="true" ref="index"/>
+    <file name="elfcover1_img_71912.jpg" crc="311635338" seo="true" ref="index"/>
+    <file name="oldman_drawing2.jpg" crc="82644383" seo="true" ref="index"/>
+    <file name="old_man_tiles2.jpg" crc="4177688547" seo="true" ref="index"/>
+    <file name="woman_drawing 2.jpg" crc="4078700934" seo="true" ref="index"/>
+    <file name="oldman_drawing-crop-u14262.jpg" crc="62554554" ref="index"/>
+    <file name="old_man_tiles-crop-u14362.jpg" crc="366851521" ref="index"/>
+    <file name="statue_drawing-crop-u14222.jpg" crc="484843679" ref="index"/>
+    <file name="still_life_drawing-crop-u14282.jpg" crc="297075489" ref="index"/>
+    <file name="woman_drawing -crop-u14322.jpg" crc="3988942089" ref="index"/>
+    <file name="ana_color_dsc0085-crop-u15332.jpg" crc="3984490320" ref="index"/>
+    <file name="dan_mask_dsc0085-crop-u15272.jpg" crc="192180727" ref="index"/>
+    <file name="dan_guy_mask_dsc0054_1-crop-u15312.jpg" crc="385345815" ref="index"/>
+    <file name="guy_mask_cont_dsc0054_1-crop-u15212.jpg" crc="9863919" ref="index"/>
+    <file name="dan_gq_magazine_cover-crop-u15252.jpg" crc="4056192388" ref="index"/>
+    <file name="ana_color_dsc00852.jpg" crc="69080133" seo="true" ref="index"/>
+    <file name="dan_mask_dsc00852.jpg" crc="3793708259" seo="true" ref="index"/>
+    <file name="dan_guy_mask_dsc0054_12.jpg" crc="180107033" seo="true" ref="index"/>
+    <file name="guy_mask_cont_dsc0054_12.jpg" crc="23745902" seo="true" ref="index"/>
+    <file name="screen shot 2015-05-14 at 91135 am-crop-u132422.jpg" crc="3813749737" ref="index"/>
+    <file name="my_portfolio_images23-crop-u132852.jpg" crc="392838386" ref="index"/>
+    <file name="my_portfolio_images25-crop-u132972.jpg" crc="217932509" ref="index"/>
+    <file name="my_portfolio_images2-crop-u132382.jpg" crc="337946061" ref="index"/>
+    <file name="my_portfolio_images4-crop-u132362.jpg" crc="4025491160" ref="index"/>
+    <file name="my_portfolio_images5212x2742.jpg" crc="117766580" seo="true" ref="index"/>
+    <file name="my_portfolio_images16-crop-u13361230x211.jpg" crc="4114354107" seo="true" ref="index"/>
+    <file name="my_portfolio_images18-crop-u133722.jpg" crc="229064777" ref="index"/>
+    <file name="my_portfolio_images23-crop-u13288.jpg" crc="3775057603" ref="index"/>
+    <file name="my_portfolio_images25-crop-u133002.jpg" crc="284889935" ref="index"/>
+    <file name="my_portfolio_images22.jpg" crc="262617205" seo="true" ref="index"/>
+    <file name="my_portfolio_images4466x6032.jpg" crc="4291614493" seo="true" ref="index"/>
+    <file name="my_portfolio_images52.jpg" crc="332072667" seo="true" ref="index"/>
+    <file name="my_portfolio_images7-crop-u133472.jpg" crc="99074791" ref="index"/>
+    <file name="my_portfolio_images18-crop-u133752.jpg" crc="348669770" ref="index"/>
+    <file name="my_portfolio_images192.jpg" crc="482067432" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3925959445" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3979098192" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="153218410" seo="true" mt="1441723487425" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="about.css" crc="34129449" ref="phone>about"/>
-      <file name="iefonts_about.css" crc="4160245853" ref="phone>about"/>
-      <file name="portfolio.css" crc="108003380" ref="phone>portfolio"/>
-      <file name="index.css" crc="4278790234" ref="phone>index"/>
-      <file name="services.css" crc="4201664750" ref="phone>services"/>
-      <file name="iefonts_services.css" crc="4229054538" ref="phone>services"/>
-      <file name="contact.css" crc="4177363919" ref="phone>contact"/>
-      <file name="iefonts_contact.css" crc="281091574" ref="phone>contact"/>
+      <file name="master_subpage.css" crc="4026125553" ref="phone>about:phone>work:phone>contact"/>
+      <file name="master_a-master.css" crc="3832749987" ref="phone>index"/>
+      <file name="index.css" crc="3809404594" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3905307945" ref="phone>index"/>
+      <file name="about.css" crc="3760103868" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="3982421460" ref="phone>about"/>
+      <file name="work.css" crc="461893034" ref="phone>work"/>
+      <file name="iefonts_work.css" crc="3880644880" ref="phone>work"/>
+      <file name="contact.css" crc="4265737307" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="3785962470" ref="phone>contact"/>
     </folder>
-    <file name="index.html" crc="95792721" seo="true" mt="1422230528511" redirect="true"/>
-    <file name="about.html" crc="490680219" seo="true" mt="1422230498328" redirect="true"/>
-    <file name="services.html" crc="4140890258" seo="true" mt="1422230498377" redirect="true"/>
-    <file name="portfolio.html" crc="459580210" seo="true" mt="1422230498550" redirect="true"/>
-    <file name="contact.html" crc="4050625964" seo="true" mt="1422230498597" redirect="true"/>
+    <file name="index.html" crc="129611490" seo="true" mt="1441723091648" redirect="true"/>
+    <file name="work.html" crc="3889086122" seo="true" mt="1441722897041" redirect="true"/>
+    <file name="about.html" crc="4068004340" seo="true" mt="1441723487430" redirect="true"/>
+    <file name="contact.html" crc="76453366" seo="true" mt="1441723487428" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4136923690" seo="true" mt="1450231092129" redirect="true"/>
-  <file name="horizontal.html" crc="4166029646" seo="true" mt="1450334095322" redirect="true"/>
+  <file name="index.html" crc="374528795" seo="true" mt="1441723487427" redirect="true"/>
 </manifest>
